@@ -11,3 +11,5 @@ This part include the web client of our application.
 
 # Setup 
     npm install 
+# Run 
+    npm start 
