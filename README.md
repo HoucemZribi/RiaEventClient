@@ -13,3 +13,5 @@ This part include the web client of our application.
     npm install 
 # Run 
     npm start 
+# Application flow 
+https://www.youtube.com/watch?v=seGhb3nJSgc
